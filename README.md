@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwindleBreeze
-- 👀 I’m interested in video game and website design
-- 🌱 I’m currently learning Unreal Engine 4
+- 👀 I’m interested in video game development and website design
+- 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on nothing currently.
 - 📫 How to reach me on e-mail: edinehi53@gmail.com
 
